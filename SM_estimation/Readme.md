@@ -2,9 +2,9 @@ Run Generate HRU data before running this
 
 ## 01_Gen_Clustering_Data
 #### Prerequisites:
-
+run `Data_input_hru.ipynb` and have numpy arrays of numeric hru features data stored at location `data_path`
 #### Reads: 
-Region 02 data read from .hru output files and saved into snumpy arrays. 
+Region 02 data read from .hru output files and saved into numpy arrays. 
 #### Parameters: 
 `Clustering_feature_names` : Change the features used for clustering. 
 #### Saves:  
