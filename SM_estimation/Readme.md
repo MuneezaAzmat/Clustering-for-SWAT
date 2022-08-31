@@ -17,6 +17,7 @@ Output: Number of clusters $k$ for the kmeans clustering
 Prerequisites:
 - Run `01_Gen_Clustering_Data` and have numpy arrays of hru clustering features data stored at location `data_path`
 - Run `02_Elbow_test` to identify the number of clusters
+
 Parameters: 
 - `normalization` : number of hrus to subsample from total ~9k hrus
 - `max_iter` : number of max iterations for convergence of the clustering algorithm
