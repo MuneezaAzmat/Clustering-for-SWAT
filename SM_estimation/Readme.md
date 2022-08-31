@@ -24,7 +24,7 @@ Parameters:
 Output:  saves hrus and t
 
 #### 04_Gen_SMest_Data: 
-Generates date for SM estimation code
+Generates data for SM estimation code
 
 #### 05_SingleStep_TGCN
 
