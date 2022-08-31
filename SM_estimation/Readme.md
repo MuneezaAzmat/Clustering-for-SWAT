@@ -1,4 +1,3 @@
-Run Generate HRU data before running this
 
 ## 01_Gen_Clustering_Data
 #### Prerequisites:
@@ -30,7 +29,8 @@ Number of clusters $k$ for the kmeans clustering
 #### Output:  
 saves hrus and t
 
-## 04_Gen_SMest_Data
+## 04_Gen_SMest_Data: 
+Generates date for SM estimation code
 
 ## 05_SingleStep_TGCN
 
