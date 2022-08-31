@@ -1,6 +1,6 @@
 
 #### 01_Gen_Clustering_Data
-run `Data_input_hru.ipynb` and have numpy arrays of numeric hru features data stored at location `data_path`
+run `Data_input_hru.ipynb` and store numpy arrays of numeric hru features at location `data_path`
 Reads: Region 02 data read from .hru output files and saved into numpy arrays. 
 Parameters: `Clustering_feature_names` : Change the features used for clustering. 
 Saves: monthly average over 38 years of the simulation (months, hrus, features) for each HRU. The output file is subbasin level 'subbasinid.num_hrus'
